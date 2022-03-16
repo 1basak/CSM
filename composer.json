@@ -1,0 +1,19 @@
+{
+    "name": "90546/cms",
+    "description": "Phpbasic cms projesi",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./App",
+            "Core\\": "./Core"
+        }
+    },
+    "authors": [
+        {
+            "name": "1basak",
+            "email": "1basakcolak@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
